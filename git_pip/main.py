@@ -1,7 +1,7 @@
 import numpy as np
 
 def main():
-    print('hello git_pip2')
+    print('hello git_pip3')
 
 
 if __name__ == '__main__':
